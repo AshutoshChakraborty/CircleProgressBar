@@ -1,1 +1,3 @@
-custom loader view
+custom loader view fully written i kotlin
+
+
